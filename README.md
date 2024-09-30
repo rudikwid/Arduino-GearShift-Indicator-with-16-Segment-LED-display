@@ -58,6 +58,9 @@ D3 = digit h / 1 adder
 D4 = digit n / R adder
 D5 = digit k / N adder
 
+Instead using Arduino Board, i have to built this with Atmega8 with internal clock, which is cheaper and more eficient
+on Atmega8c chip, the occupied program is only taken 17% dynamic memory.
+
 everything is plain simple design, you can build by your own.
 
 
